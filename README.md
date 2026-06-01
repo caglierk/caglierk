@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm caglierk
 
-<!--
-**caglierk/caglierk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build polished web experiences and practical business tools with a focus on clean interfaces, reliable deployment, and maintainable project structure.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fast static websites for real businesses.
+- Cloudflare Pages, Workers, D1, and deployment workflows.
+- Admin tools, content workflows, diagnostics, and QA checklists.
+- SEO, multilingual content, privacy-aware analytics, and launch readiness.
+
+## Tools I Use
+
+HTML, CSS, JavaScript, Node.js, Cloudflare Pages, Cloudflare Workers, D1, R2, GitHub, analytics tooling, and practical automation.
+
+## Projects
+
+Most active commercial projects are private while they are in progress or under maintenance. Public case studies, templates, and utilities will appear here as they are ready to share.
+
+## How I Work
+
+I care about clear repositories, useful documentation, readable code, and websites that feel finished from the first click through deployment.
